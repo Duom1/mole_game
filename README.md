@@ -7,3 +7,17 @@ other files related to the project.
 
 Here is a youtube video showing how it works
 [https://youtu.be/6zICtdC4Y2E](https://youtu.be/6zICtdC4Y2E)
+
+## Images
+
+![](./images/1.JPG)
+![](./images/2.JPG)
+![](./images/3.JPG)
+![](./images/4.JPG)
+![](./images/5.JPG)
+![](./images/6.JPG)
+![](./images/7.JPG)
+![](./images/8.JPG)
+![](./images/9.JPG)
+![](./images/10.JPG)
+![](./images/lcd_housing.png)
